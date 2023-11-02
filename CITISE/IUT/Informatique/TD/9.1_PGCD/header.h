@@ -1,0 +1,1 @@
+int PGCD(int a, int b);

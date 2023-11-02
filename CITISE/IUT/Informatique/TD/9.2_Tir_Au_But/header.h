@@ -1,0 +1,1 @@
+int alea(int m, int n);
